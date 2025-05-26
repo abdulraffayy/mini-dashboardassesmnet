@@ -43,7 +43,7 @@ export default function DashboardPage() {
             <header className="w-full bg-white shadow-sm py-4 mb-8">
                 <div className="max-w-5xl mx-auto px-4 flex items-center justify-between">
                     <div className="text-xl font-bold text-gray-800">
-                        MY Dashboard
+                    Dashboard
                     </div>
                     <div className="flex items-center gap-4">
                         <span className="text-gray-700 font-medium">
