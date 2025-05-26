@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotificationsPanel matches snapshot 1`] = `
+<div>
+  <div
+    class="bg-white p-8 rounded-xl shadow-md"
+  >
+    <h2
+      class="text-xl font-semibold mb-6"
+    >
+      Notifications
+    </h2>
+    <ul>
+      <li>
+        <div
+          class="flex items-start gap-4 pb-4"
+        >
+          <span
+            class="bg-blue-400 rounded-lg flex items-center justify-center w-10 h-10"
+          >
+            <svg
+              class="w-6 h-6 text-white"
+              fill="none"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+              />
+            </svg>
+          </span>
+          <div
+            class="flex flex-col"
+          >
+            <span
+              class="font-bold text-base text-gray-900"
+            >
+              New comment
+            </span>
+            <span
+              class="text-xs text-gray-500 mt-1"
+            >
+              less than a minute ago
+            </span>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;

@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TaskList matches snapshot 1`] = `
+<div>
+  <div
+    class="bg-white p-8 rounded-xl shadow-md"
+  >
+    <h2
+      class="text-xl font-bold mb-6"
+    >
+      Tasks
+    </h2>
+    <ul>
+      <li
+        class="flex items-center h-14 px-4 border-b border-gray-200"
+      >
+        <span
+          class="inline-flex items-center justify-center"
+        >
+          <input
+            checked=""
+            class="appearance-none h-6 w-6 border-2 border-blue-500 bg-white checked:bg-blue-500 checked:border-blue-500 focus:ring-0 cursor-pointer"
+            style="border-radius: 0;"
+            type="checkbox"
+          />
+          <svg
+            class="absolute w-4 h-4 text-white pointer-events-none"
+            fill="none"
+            viewBox="0 0 20 20"
+          >
+            <polyline
+              points="5 11 9 15 15 7"
+              stroke="white"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2.2"
+            />
+          </svg>
+        </span>
+        <span
+          class="ml-4 text-lg font-semibold text-gray-900 select-none flex-1"
+        >
+          Finish report
+        </span>
+        <span
+          class="cursor-grab ml-4 flex items-center"
+        >
+          <svg
+            class="w-8 h-8 text-gray-300"
+            fill="none"
+            viewBox="0 0 24 24"
+          >
+            <rect
+              fill="currentColor"
+              height="2.2"
+              rx="1"
+              width="12"
+              x="6"
+              y="7"
+            />
+            <rect
+              fill="currentColor"
+              height="2.2"
+              rx="1"
+              width="12"
+              x="6"
+              y="11"
+            />
+            <rect
+              fill="currentColor"
+              height="2.2"
+              rx="1"
+              width="12"
+              x="6"
+              y="15"
+            />
+          </svg>
+        </span>
+      </li>
+      <li
+        class="flex items-center h-14 px-4 "
+      >
+        <span
+          class="inline-flex items-center justify-center"
+        >
+          <input
+            class="appearance-none h-6 w-6 border-2 border-blue-500 bg-white checked:bg-blue-500 checked:border-blue-500 focus:ring-0 cursor-pointer"
+            style="border-radius: 0;"
+            type="checkbox"
+          />
+        </span>
+        <span
+          class="ml-4 text-lg font-semibold text-gray-900 select-none flex-1"
+        >
+          Email client
+        </span>
+        <span
+          class="cursor-grab ml-4 flex items-center"
+        >
+          <svg
+            class="w-8 h-8 text-gray-300"
+            fill="none"
+            viewBox="0 0 24 24"
+          >
+            <rect
+              fill="currentColor"
+              height="2.2"
+              rx="1"
+              width="12"
+              x="6"
+              y="7"
+            />
+            <rect
+              fill="currentColor"
+              height="2.2"
+              rx="1"
+              width="12"
+              x="6"
+              y="11"
+            />
+            <rect
+              fill="currentColor"
+              height="2.2"
+              rx="1"
+              width="12"
+              x="6"
+              y="15"
+            />
+          </svg>
+        </span>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
